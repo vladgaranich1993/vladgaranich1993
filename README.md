@@ -77,6 +77,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </p>
@@ -85,10 +86,10 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftteams.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="45" height="45"/>
 </p>
 
 
