@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on my very secret private project.
-📫 How to reach me: 
-  email: vladislav.garanich@gmail.com
-  LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/
+<br/>
+📫 How to reach me: <br/>
+  email: vladislav.garanich@gmail.com <br/>
+  LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/ <br/>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
