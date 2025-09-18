@@ -1,6 +1,6 @@
 ## Hi, I'm Vladyslav Haranich 👋
 
-🔭 <b>I’m currently working on: </b> my very secret private music-business project 💿
+🔭 <b>I’m currently working on: </b> my very secret private music-business app 💿
 <br/>
 📫 <b>How to reach me:</b> <br/>
   email: vladislav.garanich@gmail.com <br/>
