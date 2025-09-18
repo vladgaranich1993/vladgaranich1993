@@ -25,4 +25,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45" />
 </p>
