@@ -2,6 +2,7 @@
 
 🔭 <b>I’m currently working on: </b> my very secret private music-business app 💿
 <br/>
+<br/>
 📫 <b>How to reach me:</b> <br/>
   email: vladislav.garanich@gmail.com <br/>
   LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/ <br/><br/>
