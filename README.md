@@ -13,16 +13,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="react" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/svelte/svelte-original.svg" alt="svelte" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/redux/redux-original.svg" alt="redux" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/quasar/quasar-original.svg" alt="quasar" width="45" height="45" />
+
 </p>
 
 ### 🔧 Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/redux/redux-original.svg" alt="redux" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/quasar/quasar-original.svg" alt="quasar" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
