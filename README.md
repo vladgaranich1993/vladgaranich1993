@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my very secret private project.
+🔭 <b>I’m currently working on my very secret private project.</b>
 <br/>
-📫 How to reach me: <br/>
+📫 <b>How to reach me:</b> <br/>
   email: vladislav.garanich@gmail.com <br/>
   LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/ <br/><br/>
 
