@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br/>
 📫 How to reach me: <br/>
   email: vladislav.garanich@gmail.com <br/>
-  LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/ <br/>
+  LinkedIn: https://www.linkedin.com/in/vladyslav-haranich/ <br/><br/>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
