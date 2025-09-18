@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 <b>I’m currently working on my very secret private project.</b>
+🔭 <b>I’m currently working on: </b> my very secret private project 💿
 <br/>
 📫 <b>How to reach me:</b> <br/>
   email: vladislav.garanich@gmail.com <br/>
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/vue.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/typescript.svg" alt="php" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="php" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="45" height="45" />
 </p>
